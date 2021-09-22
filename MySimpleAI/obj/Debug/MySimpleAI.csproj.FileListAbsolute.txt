@@ -8,3 +8,13 @@ C:\Users\Anton\source\repos\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.csproj.Ge
 C:\Users\Anton\source\repos\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.csproj.CoreCompileInputs.cache
 C:\Users\Anton\source\repos\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.exe
 C:\Users\Anton\source\repos\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.pdb
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\bin\Debug\MySimpleAI.exe.config
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\bin\Debug\MySimpleAI.exe
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\bin\Debug\MySimpleAI.pdb
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.Form1.resources
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.exe
+C:\Users\User\Documents\GitHub\MySimpleAI\MySimpleAI\obj\Debug\MySimpleAI.pdb
