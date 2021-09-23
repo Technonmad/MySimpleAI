@@ -16,6 +16,8 @@ namespace MySimpleAI
         IfBusy busy = new IfBusy();
         WannaSleep sleep = new WannaSleep();
         IfRead read = new IfRead();
+        IfGenshin genshin = new IfGenshin();
+        IfMovie movie = new IfMovie();
         public Form1()
         {
             InitializeComponent();
@@ -48,6 +50,11 @@ namespace MySimpleAI
                     {
                         if (read.checkRead(radioButton2.Checked, radioButton3.Checked, radioButton5.Checked, radioButton6.Checked, radioButton8.Checked, radioButton9.Checked, radioButton11.Checked, radioButton12.Checked))
                             textBox1.Text = "Вы можете почитать книгу!";
+                        else
+                        {
+                            if (genshin.checkGenshin(radioButton1.Checked, radioButton3.Checked, radioButton5.Checked, radioButton6.Checked, radioButton8.Checked, radioButton9.Checked, radioButton11.Checked, radioButton10.Checked))
+                                textBox1.Text = "Время поиграть в геншин";
+                        }
                     }
                 }
             }

@@ -53,6 +53,8 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="IfBusy.cs" />
+    <Compile Include="IfGenshin.cs" />
+    <Compile Include="IfMovie.cs" />
     <Compile Include="IfRead.cs" />
     <Compile Include="IfTarkov.cs" />
     <Compile Include="Program.cs" />
